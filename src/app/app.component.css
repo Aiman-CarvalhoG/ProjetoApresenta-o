@@ -1,0 +1,31 @@
+#tudo{
+  width: 800px;
+  height: 600px;
+  background-image: linear-gradient(#fffff0, rgb(104, 195, 255));
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -300px;
+  margin-left: -400px;
+}
+
+table{
+  border: dotted 5px #f3f396;
+  width: 800px;
+  height: 600px;
+  color: rgb(9, 110, 110);
+}
+
+th{
+  font-size: larger;
+  color: #0a0a06;
+}
+
+td{
+  font-size: larger;
+}
+
+a{
+  color: rgb(9, 110, 110);
+}
+
